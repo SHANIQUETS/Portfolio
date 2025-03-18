@@ -21,7 +21,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, alway
 
 
 ### SQL  
-
+[Exploring Employee Database](https://github.com/SHANIQUETS/Portfolio/blob/main/EMPLOYEE%20DATABASE.sql)
 ### Power BI
 
 📧 **Email:** [shanique.smith112@gmail.com](mailto:shanique.smith112@gmail.com)  
@@ -106,4 +106,23 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Requests.
 
 ## Results  
 The analysis successfully integrated sunshine and solar capacity data, revealing a positive correlation between higher sunshine hours and increased solar PV capacity. The findings highlighted regional differences that are useful for planning solar energy infrastructure. The automated pipeline improved data accuracy and consistency, enhancing accessibility for further analysis. The insights from this analysis can support renewable energy planning by identifying regions with the greatest potential for solar energy expansion.
+
+### Employee Data Exploration
+
+**Code:** [Exploring Employee Database](https://github.com/SHANIQUETS/Portfolio/blob/main/EMPLOYEE%20DATABASE.sql)
+
+## Goal  
+To explore and analyze employee-related data using SQL to uncover trends and insights in the workforce.
+
+## Description  
+This project involves analyzing an employee database using SQL to uncover patterns related to employee demographics, job roles, salaries, and tenure. The analysis is performed through **Data Query Language (DQL)**, **Data Manipulation Language (DML)**, and **Data Definition Language (DDL)** to interact with the employee database. SQL queries are used to clean, transform, and analyze the data, providing insights into various aspects such as average salary by department, employee tenure, distribution of job roles, and more. The goal is to gain a deeper understanding of the company's workforce composition and trends.
+
+## Skills  
+DML (Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language), SQL querying, data exploration, data analysis.
+
+## Technology  
+SQL (Structured Query Language), Database Management System (DBMS), Data Querying.
+
+## Results  
+The exploration revealed valuable insights such as salary distribution across departments, employee tenure trends, and the demographic breakdown of the workforce. Key findings include trends in compensation strategies, employee retention, and departmental composition. The use of SQL for querying and manipulating the employee data allowed for efficient and detailed analysis, which can inform HR policies and organizational planning.
 
