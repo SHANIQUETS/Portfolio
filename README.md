@@ -26,6 +26,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, alway
 📧 **Email:** [shanique.smith112@gmail.com](mailto:shanique.smith112@gmail.com)  
 
 ## Project Portfolio  
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Healthcare Data Integration Pipeline  
 
