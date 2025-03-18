@@ -16,8 +16,11 @@ My [**CV**](https://github.com/SHANIQUETS/Portfolio/blob/main/My%20CV%20.pdf)
 Python
 
 [**Healthcare Data Integration Pipeline**](https://github.com/SHANIQUETS/Healthcare-Integration-Pipeline/blob/main/integrated_data_pipeline.ipynb)  
+
 [**Mobile Phone Price Predictor**](https://github.com/SHANIQUETS/Portfolio/blob/main/Mobile_Phone_Price_Predictor.ipynb)
+
 [**Analyzing Netflix Content Trends**](https://github.com/SHANIQUETS/Portfolio/blob/main/Analysing_Netflix_Content_Trends_checkpoint.ipynb)
+
 [**Solar Energy Generation Capacity**](https://github.com/SHANIQUETS/Portfolio/blob/main/solar%20energy%20generation%20capacity.ipynb)
 
 
