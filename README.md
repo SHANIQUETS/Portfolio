@@ -8,7 +8,7 @@ Through my training, I've developed a sharp ability to analyze complex datasets 
 
 In my free time, I enjoy exploring new data analysis tools and techniques, always looking to expand my knowledge and improve my skills. Whether working independently or as part of a team, I’m motivated by the thrill of discovering insights and using data to solve complex problems.
 
-My [**CV**](https://github.com/SHANIQUETS/Portfolio/blob/main/My%20CV%20.pdf)
+[My CV](https://github.com/SHANIQUETS/Portfolio/blob/main/My%20CV.pdf)
 
 
 **Portfolio Projects**
