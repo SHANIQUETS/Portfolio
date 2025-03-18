@@ -15,11 +15,11 @@ My [**CV**](https://github.com/SHANIQUETS/Portfolio/blob/main/My%20CV%20.pdf)
 
 Python
 
-[**Healthcare Data Integration Pipeline**](https://github.com/SHANIQUETS/Healthcare-Integration-Pipeline/blob/main/integrated_data_pipeline.ipynb)
+[**Healthcare Data Integration Pipeline**](https://github.com/SHANIQUETS/Healthcare-Integration-Pipeline/blob/main/integrated_data_pipeline.ipynb)  
+[**Mobile Phone Price Predictor**](https://github.com/SHANIQUETS/Portfolio/blob/main/Mobile_Phone_Price_Predictor.ipynb)
+[**Analyzing Netflix Content Trends**](https://github.com/SHANIQUETS/Portfolio/blob/main/Analysing_Netflix_Content_Trends_checkpoint.ipynb)
+[**Solar Energy Generation Capacity**](https://github.com/SHANIQUETS/Portfolio/blob/main/solar%20energy%20generation%20capacity.ipynb)
 
-[**Mobile Phone Price Prediction**](https://github.com/sialf/ML_Group_1/blob/main/Mobile_Phone_Price_Predictor.ipynb)
-
-[**Netflix Content Trends**](https://github.com/SHANIQUETS/Shanique-Portfolio/blob/main/Netflix%20Project/Analysing%20Netflix%20Content%20Trends.ipynb)  
 
 SQL
 
@@ -50,7 +50,8 @@ The pipeline successfully integrated multiple datasets, improving data accuracy 
 
 # Mobile Phone Price Prediction  
 
-**Code:** [Mobile Phone Price Prediction](https://github.com/SHANIQUETS/Shanique-Portfolio/blob/main/AI%20%26%20ML%20/Mobile_Phone_Price_Predictor.ipynb)  
+**Code:** [Mobile Phone Price Predictor](https://github.com/SHANIQUETS/Portfolio/blob/main/Mobile_Phone_Price_Predictor.ipynb)
+
 
 ## Goal  
 To develop a machine learning model to predict the price category of mobile phones based on their features.  
@@ -70,7 +71,7 @@ The final model achieved high accuracy in predicting mobile phone price categori
 
 # Netflix Content Trends Analysis  
 
-**Code:** [Netflix Content Trends](https://github.com/SHANIQUETS/Shanique-Portfolio/blob/main/Netflix%20Project/Analysing%20Netflix%20Content%20Trends.ipynb)  
+**Code:** [Analyzing Netflix Content Trends](https://github.com/SHANIQUETS/Portfolio/blob/main/Analysing_Netflix_Content_Trends_checkpoint.ipynb)
 
 ## Goal  
 To analyze trends in Netflix content to identify patterns in genres, release dates, and content ratings.  
