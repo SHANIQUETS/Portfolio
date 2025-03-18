@@ -21,6 +21,7 @@ Python
 
 [**Wine Quality Prediction**](https://github.com/SHANIQUETS/AI-ML-Project/blob/main/Machine%20learning%20wine.ipynb)
 
+[**Netflix Project**](https://github.com/SHANIQUETS/Shanique-Portfolio/blob/main/Netflix%20Project/Analysing%20Netflix%20Content%20Trends.ipynb)
 
 SQL
 
