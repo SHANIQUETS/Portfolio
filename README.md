@@ -11,28 +11,23 @@ In my free time, I enjoy exploring new data analysis tools and techniques, alway
 [My CV](https://github.com/SHANIQUETS/Portfolio/blob/main/My%20CV.pdf)
 
 
-**Portfolio Projects**
+## Portfolio Projects  
 
-Python
+### Python  
+- [**Healthcare Data Integration Pipeline**](https://github.com/SHANIQUETS/Healthcare-Integration-Pipeline/blob/main/integrated_data_pipeline.ipynb)  
+- [**Mobile Phone Price Predictor**](https://github.com/SHANIQUETS/Portfolio/blob/main/Mobile_Phone_Price_Predictor.ipynb)  
+- [**Analyzing Netflix Content Trends**](https://github.com/SHANIQUETS/Portfolio/blob/main/Analysing_Netflix_Content_Trends_checkpoint.ipynb)  
+- [**Solar Energy Generation Capacity**](https://github.com/SHANIQUETS/Portfolio/blob/main/solar%20energy%20generation%20capacity.ipynb)  
 
-[**Healthcare Data Integration Pipeline**](https://github.com/SHANIQUETS/Healthcare-Integration-Pipeline/blob/main/integrated_data_pipeline.ipynb)  
+### SQL  
 
-[**Mobile Phone Price Predictor**](https://github.com/SHANIQUETS/Portfolio/blob/main/Mobile_Phone_Price_Predictor.ipynb)
+### Power BI
 
-[**Analyzing Netflix Content Trends**](https://github.com/SHANIQUETS/Portfolio/blob/main/Analysing_Netflix_Content_Trends_checkpoint.ipynb)
+📧 **Email:** [shanique.smith112@gmail.com](mailto:shanique.smith112@gmail.com)  
 
-[**Solar Energy Generation Capacity**](https://github.com/SHANIQUETS/Portfolio/blob/main/solar%20energy%20generation%20capacity.ipynb)
+## Project Portfolio  
 
-
-SQL
-
-Power BI
-
-Email:[shanique.smith112@gmail.com](mailto:shanique.smith112@gmail.com)
-
-***Project Portfolio***
-
-# Healthcare Data Integration Pipeline  
+### Healthcare Data Integration Pipeline  
 
 **Code:** [Healthcare Data Integration Pipeline](https://github.com/SHANIQUETS/Healthcare-Integration-Pipeline/blob/main/integrated_data_pipeline.ipynb)  
 
@@ -51,7 +46,7 @@ Python, Pandas, NumPy, Seaborn, Matplotlib, SQL.
 ## Results  
 The pipeline successfully integrated multiple datasets, improving data accuracy and consistency. The automated process reduced manual errors and streamlined data accessibility for healthcare professionals, enhancing decision-making and operational efficiency.  
 
-# Mobile Phone Price Prediction  
+### Mobile Phone Price Prediction  
 
 **Code:** [Mobile Phone Price Predictor](https://github.com/SHANIQUETS/Portfolio/blob/main/Mobile_Phone_Price_Predictor.ipynb)
 
@@ -72,7 +67,7 @@ Python, Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib.
 The final model achieved high accuracy in predicting mobile phone price categories. The analysis highlighted that features such as RAM and battery power have the strongest influence on price prediction.  
 
 
-# Netflix Content Trends Analysis  
+### Netflix Content Trends Analysis  
 
 **Code:** [Analyzing Netflix Content Trends](https://github.com/SHANIQUETS/Portfolio/blob/main/Analysing_Netflix_Content_Trends_checkpoint.ipynb)
 
