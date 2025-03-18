@@ -87,3 +87,23 @@ Python, Pandas, NumPy, Seaborn, Matplotlib.
 
 ## Results  
 The analysis revealed that certain genres and content types have increased in popularity over the years, with a notable shift in content rating distribution. The project provided actionable insights into Netflix's content strategy and viewer preferences.  
+
+### Solar Energy Generation Capacity Analysis
+
+**Code:** [Analyzing Solar Energy Generation Capacity](https://github.com/SHANIQUETS/Portfolio/blob/main/solar%20energy%20generation%20capacity.ipynb)
+
+## Goal  
+To analyze the relationship between sunshine hours and installed solar PV capacity across different regions of the UK.
+
+## Description  
+This project focuses on examining how regional variations in sunshine hours affect the installed solar PV capacity in the UK. The analysis includes the extraction, cleaning, and transformation of sunshine and solar capacity data from multiple regions. It integrates the datasets to calculate mean sunshine hours, performs statistical analysis to identify trends and correlations, and utilizes data visualization techniques to present the findings. The project aims to improve the understanding of the relationship between sunshine hours and solar energy capacity across the UK’s diverse regions.
+
+## Skills  
+Data extraction, data cleaning and preprocessing, statistical analysis, data visualization, automation.
+
+## Technology  
+Python, Pandas, NumPy, Matplotlib, Seaborn, Requests.
+
+## Results  
+The analysis successfully integrated sunshine and solar capacity data, revealing a positive correlation between higher sunshine hours and increased solar PV capacity. The findings highlighted regional differences that are useful for planning solar energy infrastructure. The automated pipeline improved data accuracy and consistency, enhancing accessibility for further analysis. The insights from this analysis can support renewable energy planning by identifying regions with the greatest potential for solar energy expansion.
+
