@@ -21,10 +21,31 @@ Python
 
 [**Wine Quality Prediction**](https://github.com/SHANIQUETS/AI-ML-Project/blob/main/Machine%20learning%20wine.ipynb)
 
-[**Netflix Project**](https://github.com/SHANIQUETS/Shanique-Portfolio/blob/main/Netflix%20Project/Analysing%20Netflix%20Content%20Trends.ipynb)
+[**Netflix Content Trends**](https://github.com/SHANIQUETS/Shanique-Portfolio/blob/main/Netflix%20Project/Analysing%20Netflix%20Content%20Trends.ipynb)  
 
 SQL
 
 Power BI
 
 Email:[shanique.smith112@gmail.com](mailto:shanique.smith112@gmail.com)
+
+**Project Portfolio**
+
+# Netflix Content Trends Analysis  
+
+**Code:** [Netflix Content Trends](https://github.com/SHANIQUETS/Shanique-Portfolio/blob/main/Netflix%20Project/Analysing%20Netflix%20Content%20Trends.ipynb)  
+
+## Goal  
+To analyze trends in Netflix content to identify patterns in genres, release dates, and content ratings.  
+
+## Description  
+This project involved analyzing a Netflix dataset to uncover trends and insights in the platform's content. The dataset included information on movie and TV show titles, genres, release years, content ratings, and duration. The analysis covered data cleaning and preprocessing, exploratory data analysis (EDA), identifying the most popular genres and content types over time, and analyzing content ratings and their distribution across genres and release years.  
+
+## Skills  
+Data cleaning, data analysis, pattern recognition, data visualization.  
+
+## Technology  
+Python, Pandas, NumPy, Seaborn, Matplotlib.  
+
+## Results  
+The analysis revealed that certain genres and content types have increased in popularity over the years, with a notable shift in content rating distribution. The project provided actionable insights into Netflix's content strategy and viewer preferences.  
