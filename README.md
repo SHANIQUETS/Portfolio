@@ -19,8 +19,6 @@ Python
 
 [**Mobile Phone Price Prediction**](https://github.com/sialf/ML_Group_1/blob/main/Mobile_Phone_Price_Predictor.ipynb)
 
-[**Wine Quality Prediction**](https://github.com/SHANIQUETS/AI-ML-Project/blob/main/Machine%20learning%20wine.ipynb)
-
 [**Netflix Content Trends**](https://github.com/SHANIQUETS/Shanique-Portfolio/blob/main/Netflix%20Project/Analysing%20Netflix%20Content%20Trends.ipynb)  
 
 SQL
@@ -29,7 +27,46 @@ Power BI
 
 Email:[shanique.smith112@gmail.com](mailto:shanique.smith112@gmail.com)
 
-**Project Portfolio**
+***Project Portfolio***
+
+# Healthcare Data Integration Pipeline  
+
+**Code:** [Healthcare Data Integration Pipeline](https://github.com/SHANIQUETS/Healthcare-Integration-Pipeline/blob/main/integrated_data_pipeline.ipynb)  
+
+## Goal  
+To integrate and manage healthcare datasets to improve data accessibility and operational efficiency.  
+
+## Description  
+This project focused on building a pipeline to integrate and process healthcare data from multiple sources. The pipeline handled data extraction, transformation, and loading (ETL) to create a unified and structured dataset. The project involved data cleaning and preprocessing, handling missing values, and automating the data integration process to ensure accuracy and consistency. Statistical analysis and data visualization were used to uncover insights and improve healthcare service delivery.  
+
+## Skills  
+Data integration, ETL (Extract, Transform, Load), data cleaning, statistical analysis, automation, data visualization.  
+
+## Technology  
+Python, Pandas, NumPy, Seaborn, Matplotlib, SQL.  
+
+## Results  
+The pipeline successfully integrated multiple datasets, improving data accuracy and consistency. The automated process reduced manual errors and streamlined data accessibility for healthcare professionals, enhancing decision-making and operational efficiency.  
+
+# Mobile Phone Price Prediction  
+
+**Code:** [Mobile Phone Price Prediction](https://github.com/SHANIQUETS/Shanique-Portfolio/blob/main/AI%20%26%20ML%20/Mobile_Phone_Price_Predictor.ipynb)  
+
+## Goal  
+To develop a machine learning model to predict the price category of mobile phones based on their features.  
+
+## Description  
+This project involved building a machine learning model to predict mobile phone price categories using a dataset containing various phone specifications such as battery power, RAM, screen size, and processor speed. The project included data cleaning and preprocessing, feature selection, model training and evaluation, and performance tuning. Various classification models were tested to identify the most accurate and efficient approach.  
+
+## Skills  
+Data preprocessing, feature selection, model training, classification, performance evaluation, data visualization.  
+
+## Technology  
+Python, Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib.  
+
+## Results  
+The final model achieved high accuracy in predicting mobile phone price categories. The analysis highlighted that features such as RAM and battery power have the strongest influence on price prediction.  
+
 
 # Netflix Content Trends Analysis  
 
