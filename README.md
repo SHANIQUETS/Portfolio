@@ -11,7 +11,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, alway
 [My CV](https://github.com/SHANIQUETS/Portfolio/blob/main/My%20CV.pdf)
 
 
-## Portfolio Projects  
+## [Portfolio Projects](https://github.com/SHANIQUETS/Portfolio/tree/main/Projects)
 
 ### Python  
 - [Healthcare integrated_data_pipeline.ipynb](https://github.com/SHANIQUETS/Portfolio/blob/main/Projects/integrated_data_pipeline.ipynb)
