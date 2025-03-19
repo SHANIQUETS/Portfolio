@@ -14,7 +14,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, alway
 ## Portfolio Projects  
 
 ### Python  
-- [Healthcare Data Integration Pipeline](https://github.com/SHANIQUETS/Healthcare-Integration-Pipeline/blob/main/integrated_data_pipeline.ipynb)  
+- [Healthcare integrated_data_pipeline.ipynb](https://github.com/SHANIQUETS/Portfolio/blob/main/integrated_data_pipeline.ipynb)
 - [Mobile Phone Price Predictor](https://github.com/SHANIQUETS/Portfolio/blob/main/Mobile_Phone_Price_Predictor.ipynb)  
 - [Analyzing Netflix Content Trends](https://github.com/SHANIQUETS/Portfolio/blob/main/Analysing_Netflix_Content_Trends_checkpoint.ipynb)  
 - [Solar Energy Generation Capacity](https://github.com/SHANIQUETS/Portfolio/blob/main/solar%20energy%20generation%20capacity.ipynb)  
@@ -31,7 +31,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Healthcare Data Integration Pipeline  
 
-**Code:** [Healthcare Data Integration Pipeline](https://github.com/SHANIQUETS/Healthcare-Integration-Pipeline/blob/main/integrated_data_pipeline.ipynb)  
+**Code:** [Healthcare integrated_data_pipeline.ipynb](https://github.com/SHANIQUETS/Portfolio/blob/main/integrated_data_pipeline.ipynb)
 
 ## Goal  
 To integrate and manage healthcare datasets to improve data accessibility and operational efficiency.  
