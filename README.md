@@ -14,14 +14,15 @@ In my free time, I enjoy exploring new data analysis tools and techniques, alway
 ## Portfolio Projects  
 
 ### Python  
-- [Healthcare integrated_data_pipeline.ipynb](https://github.com/SHANIQUETS/Portfolio/blob/main/integrated_data_pipeline.ipynb)
-- [Mobile Phone Price Predictor](https://github.com/SHANIQUETS/Portfolio/blob/main/Mobile_Phone_Price_Predictor.ipynb)  
-- [Analyzing Netflix Content Trends](https://github.com/SHANIQUETS/Portfolio/blob/main/Analysing_Netflix_Content_Trends_checkpoint.ipynb)  
-- [Solar Energy Generation Capacity](https://github.com/SHANIQUETS/Portfolio/blob/main/solar%20energy%20generation%20capacity.ipynb)  
+- [Healthcare integrated_data_pipeline.ipynb](https://github.com/SHANIQUETS/Portfolio/blob/main/Projects/integrated_data_pipeline.ipynb)
+- [Mobile Phone Price Predictor](https://github.com/SHANIQUETS/Portfolio/blob/main/Projects/Mobile_Phone_Price_Predictor.ipynb)
+- [Analyzing Netflix Content Trends](https://github.com/SHANIQUETS/Portfolio/blob/main/Projects/Analysing_Netflix_Content_Trends_checkpoint.ipynb)
+- [Solar Energy Generation Capacity](https://github.com/SHANIQUETS/Portfolio/blob/main/Projects/solar%20energy%20generation%20capacity.ipynb)  
 
 
 ### SQL  
-[Exploring Employee Database](https://github.com/SHANIQUETS/Portfolio/blob/main/EMPLOYEE%20DATABASE.sql)
+[Exploring Employee Database](https://github.com/SHANIQUETS/Portfolio/blob/main/Projects/EMPLOYEE%20DATABASE.sql)
+
 ### Power BI
 
 📧 **Email:** [shanique.smith112@gmail.com](mailto:shanique.smith112@gmail.com)  
@@ -31,7 +32,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Healthcare Data Integration Pipeline  
 
-**Code:** [Healthcare integrated_data_pipeline.ipynb](https://github.com/SHANIQUETS/Portfolio/blob/main/integrated_data_pipeline.ipynb)
+**Code:** [Healthcare integrated_data_pipeline.ipynb](https://github.com/SHANIQUETS/Portfolio/blob/main/Projects/integrated_data_pipeline.ipynb)
 
 ## Goal  
 To integrate and manage healthcare datasets to improve data accessibility and operational efficiency.  
@@ -50,8 +51,7 @@ The pipeline successfully integrated multiple datasets, improving data accuracy 
 
 ### Mobile Phone Price Prediction  
 
-**Code:** [Mobile Phone Price Predictor](https://github.com/SHANIQUETS/Portfolio/blob/main/Mobile_Phone_Price_Predictor.ipynb)
-
+**Code:** [Mobile Phone Price Predictor](https://github.com/SHANIQUETS/Portfolio/blob/main/Projects/Mobile_Phone_Price_Predictor.ipynb)
 
 ## Goal  
 To develop a machine learning model to predict the price category of mobile phones based on their features.  
@@ -71,8 +71,7 @@ The final model achieved high accuracy in predicting mobile phone price categori
 
 ### Netflix Content Trends Analysis  
 
-**Code:** [Analyzing Netflix Content Trends](https://github.com/SHANIQUETS/Portfolio/blob/main/Analysing_Netflix_Content_Trends_checkpoint.ipynb)
-
+**Code:** [Analyzing Netflix Content Trends](https://github.com/SHANIQUETS/Portfolio/blob/main/Projects/Analysing_Netflix_Content_Trends_checkpoint.ipynb)
 ## Goal  
 To analyze trends in Netflix content to identify patterns in genres, release dates, and content ratings.  
 
@@ -90,7 +89,7 @@ The analysis revealed that certain genres and content types have increased in po
 
 ### Solar Energy Generation Capacity Analysis
 
-**Code:** [Analyzing Solar Energy Generation Capacity](https://github.com/SHANIQUETS/Portfolio/blob/main/solar%20energy%20generation%20capacity.ipynb)
+**Code:** [Analyzing Solar Energy Generation Capacity](https://github.com/SHANIQUETS/Portfolio/blob/main/Projects/solar%20energy%20generation%20capacity.ipynb)
 
 ## Goal  
 To analyze the relationship between sunshine hours and installed solar PV capacity across different regions of the UK.
@@ -109,7 +108,7 @@ The analysis successfully integrated sunshine and solar capacity data, revealing
 
 ### Employee Data Exploration
 
-**Code:** [Exploring Employee Database](https://github.com/SHANIQUETS/Portfolio/blob/main/EMPLOYEE%20DATABASE.sql)
+**Code:** [Exploring Employee Database](https://github.com/SHANIQUETS/Portfolio/blob/main/Projects/EMPLOYEE%20DATABASE.sql)
 
 ## Goal  
 To explore and analyze employee-related data using SQL to uncover trends and insights in the workforce.
