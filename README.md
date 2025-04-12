@@ -25,6 +25,8 @@ In my free time, I enjoy exploring new data analysis tools and techniques, alway
 
 ### Power BI
 
+[Credit Hire Funnel](https://github.com/SHANIQUETS/Portfolio/blob/main/Projects/Hire%20Credit.pbix)
+
 📧 **Email:** [shanique.smith112@gmail.com](mailto:shanique.smith112@gmail.com)  
 
 ## Project Portfolio  
@@ -125,3 +127,37 @@ SQL (Structured Query Language), Database Management System (DBMS), Data Queryin
 ## Results  
 The exploration revealed valuable insights such as salary distribution across departments, employee tenure trends, and the demographic breakdown of the workforce. Key findings include trends in compensation strategies, employee retention, and departmental composition. The use of SQL for querying and manipulating the employee data allowed for efficient and detailed analysis, which can inform HR policies and organizational planning.
 
+# Credit Hire Funnel
+
+**Dashboard:** [Credit Hire Funnel](https://github.com/SHANIQUETS/Portfolio/blob/main/Projects/Hire%20Credit.pbix)
+
+## 🧠 Goal  
+To design a dynamic Power BI dashboard that visualises the full credit hire process and enables stakeholders to monitor performance, identify drop-off points, and make data-informed decisions.
+
+## 📋 Description  
+This project involved creating an interactive funnel dashboard to track the customer journey from incident intake to vehicle hire completion. The dashboard provides visibility into each step of the claims and hire process, including:
+
+- Case progression rates  
+- Drop-off and bottleneck analysis  
+- KPIs filtered by region, status, and claim type  
+- Time-based trends and conversion metrics
+
+The tool is built to support operational teams, analysts, and managers in improving efficiency, claim turnaround, and stakeholder communication.
+
+## 🛠️ Skills  
+- Funnel analysis  
+- Operational and KPI reporting  
+- Business intelligence and visual storytelling  
+- Stakeholder engagement
+
+## 💻 Technology  
+- Power BI  
+- DAX  
+- SQL  
+- Excel
+
+## ✅ Results  
+- Increased visibility across the credit hire process  
+- Enabled quicker response to delays and drop-offs  
+- Streamlined reporting and reduced time spent on manual updates  
+- Boosted adoption of performance metrics across teams
