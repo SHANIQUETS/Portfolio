@@ -131,10 +131,10 @@ The exploration revealed valuable insights such as salary distribution across de
 
 **Dashboard:** [Credit Hire Funnel](https://github.com/SHANIQUETS/Portfolio/blob/main/Projects/Hire%20Credit.pbix)
 
-## 🧠 Goal  
+## Goal  
 To design a dynamic Power BI dashboard that visualises the full credit hire process and enables stakeholders to monitor performance, identify drop-off points, and make data-informed decisions.
 
-## 📋 Description  
+## Description  
 This project involved creating an interactive funnel dashboard to track the customer journey from incident intake to vehicle hire completion. The dashboard provides visibility into each step of the claims and hire process, including:
 
 - Case progression rates  
@@ -144,13 +144,13 @@ This project involved creating an interactive funnel dashboard to track the cust
 
 The tool is built to support operational teams, analysts, and managers in improving efficiency, claim turnaround, and stakeholder communication.
 
-## 🛠️ Skills  
+## Skills  
 - Funnel analysis  
 - Operational and KPI reporting  
 - Business intelligence and visual storytelling  
 - Stakeholder engagement
 
-## 💻 Technology  
+## Technology  
 - Power BI  
 - DAX  
 - SQL  
