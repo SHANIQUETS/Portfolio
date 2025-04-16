@@ -27,6 +27,11 @@ In my free time, I enjoy exploring new data analysis tools and techniques, alway
 
 [Credit Hire Funnel](https://github.com/SHANIQUETS/Portfolio/blob/main/Projects/Hire%20Credit.pbix)
 
+[Customer Analysis DashBoard](https://github.com/SHANIQUETS/Portfolio/blob/322a9548043b601a70ac2f1d18b410c72c49fa92/Projects/Customer%20Analysis.png)
+
+[HR Analysis Dashboard](https://github.com/SHANIQUETS/Portfolio/blob/main/Projects/HR%20Analysis.png)
+
+
 📧 **Email:** [shanique.smith112@gmail.com](mailto:shanique.smith112@gmail.com)  
 
 ## Project Portfolio  
