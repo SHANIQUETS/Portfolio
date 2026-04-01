@@ -69,3 +69,7 @@ This kind of dashboard helps teams quickly see where performance is dropping off
 ## Dashboard preview
 
 <img width="1402" height="1121" alt="Referral    Hire Performance Dashboard" src="https://github.com/user-attachments/assets/e9b9408a-59aa-4cbb-ae70-3864e644aa2a" />
+
+![Overview](./images/dashboard_overview.png)
+![Referrals](./images/referrals_trend.png)
+![Breakdown](./images/referrer_breakdown.png)
