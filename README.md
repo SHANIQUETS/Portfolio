@@ -73,6 +73,82 @@ This kind of dashboard helps teams quickly see where performance is dropping off
 
 <img width="1536" height="1024" alt="Breakdown of Rejection" src="https://github.com/user-attachments/assets/4f9eda70-27b2-467c-8bae-0df22d98f993" />
 
+# 📊 Cash Flow & Payment Performance Dashboard
+
+## Overview
+
+This project analyses weekly cash collection and payment performance across multiple channels, with a focus on understanding trends, channel contribution, and variance against previous periods.
+
+The dashboard was designed to provide both a high-level executive view and a detailed operational breakdown.
+
+---
+
+## Objectives
+
+* Track total cash collection and payment volumes
+* Analyse contribution by payment channel
+* Compare performance against previous year
+* Identify key drivers of positive and negative variance
+
+---
+
+## Dashboard Structure
+
+### Executive Overview
+
+Provides a high-level summary of performance:
+
+* Total weekly and month-to-date cash
+* Payment volumes
+* Variance vs previous year
+* Trends over time
+* Channel contribution
+
+### Detailed Breakdown
+
+Provides a granular view by payment channel, including:
+
+* Weekly amounts
+* Percentage contribution
+* MTD performance
+* Variance vs previous year
+
+---
+
+## Key Insights
+
+* Direct Debit (DD) accounts for the majority of cash collection (~72%), making it a critical driver of overall performance.
+* Negative variance vs previous year is largely driven by declines in key payment channels.
+* Some smaller channels show positive growth, indicating potential areas for expansion.
+
+---
+
+## Tools Used
+
+* Power BI (or equivalent reporting tool)
+* Data modelling and aggregation
+* Business performance analysis
+
+---
+
+## Business Value
+
+This dashboard enables stakeholders to:
+
+* Monitor cash performance in real time
+* Identify underperforming channels
+* Make informed decisions on payment strategy
+* Improve forecasting and operational planning
+
+---
+
+## Dashboard Preview
+
+<img width="1138" height="755" alt="Cash By Paypoint MTD" src="https://github.com/user-attachments/assets/a36adfb1-cd12-461a-94a3-b0888ab21dc1" />
+
+<img width="1536" height="1024" alt="Cash By Paypoint YTD" src="https://github.com/user-attachments/assets/8ab5e59f-359f-4c35-b5fa-1c54d356622b" />
+
+
 ---
 
 
