@@ -70,3 +70,10 @@ This kind of dashboard helps teams quickly see where performance is dropping off
 
 <img width="1402" height="1121" alt="Referral    Hire Performance Dashboard" src="https://github.com/user-attachments/assets/e9b9408a-59aa-4cbb-ae70-3864e644aa2a" />
 
+<img width="1536" height="1024" alt="Breakdown of Rejection" src="https://github.com/user-attachments/assets/4f9eda70-27b2-467c-8bae-0df22d98f993" />
+
+---
+
+
+
+
