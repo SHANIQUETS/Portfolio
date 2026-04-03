@@ -144,10 +144,10 @@ This dashboard enables stakeholders to:
 
 ## Dashboard Preview
 
-<img width="1138" height="755" alt="Cash By Paypoint MTD" src="https://github.com/user-attachments/assets/a36adfb1-cd12-461a-94a3-b0888ab21dc1" />
-
 <img width="1536" height="1024" alt="Cash By Paypoint YTD" src="https://github.com/user-attachments/assets/8ab5e59f-359f-4c35-b5fa-1c54d356622b" />
 
+
+<img width="1138" height="755" alt="Cash By Paypoint MTD" src="https://github.com/user-attachments/assets/a36adfb1-cd12-461a-94a3-b0888ab21dc1" />
 
 ---
 
