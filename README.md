@@ -71,7 +71,8 @@ This kind of dashboard helps teams quickly see where performance is dropping off
 <img width="1536" height="1024" alt="Referral    Hire Performance Dashboard" src="https://github.com/user-attachments/assets/a43bab76-09f4-4d5d-9763-b4293f4ca6fb" />
 
 
-<img width="1536" height="1024" alt="Breakdown of Rejection" src="https://github.com/user-attachments/assets/4f9eda70-27b2-467c-8bae-0df22d98f993" />
+<img width="1536" height="1024" alt="Rejection Analysis" src="https://github.com/user-attachments/assets/6aae403a-193d-4099-a51d-f665c243decb" />
+
 
 # 📊 Cash Flow & Payment Performance Dashboard
 
@@ -144,7 +145,8 @@ This dashboard enables stakeholders to:
 
 ## Dashboard Preview
 
-<img width="1536" height="1024" alt="Cash By Paypoint YTD" src="https://github.com/user-attachments/assets/8ab5e59f-359f-4c35-b5fa-1c54d356622b" />
+<img width="1536" height="1024" alt="ChatGPT Image Apr 6, 2026 at 11_00_58 AM" src="https://github.com/user-attachments/assets/ef7e8aef-2b82-4f22-b9ce-b0a894d008da" />
+
 
 
 <img width="1138" height="755" alt="Cash By Paypoint MTD" src="https://github.com/user-attachments/assets/a36adfb1-cd12-461a-94a3-b0888ab21dc1" />
