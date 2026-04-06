@@ -71,7 +71,7 @@ This kind of dashboard helps teams quickly see where performance is dropping off
 <img width="1536" height="1024" alt="Referral    Hire Performance Dashboard" src="https://github.com/user-attachments/assets/a43bab76-09f4-4d5d-9763-b4293f4ca6fb" />
 
 
-<img width="1536" height="1024" alt="ChatGPT Image Apr 6, 2026 at 11_09_50 AM" src="https://github.com/user-attachments/assets/4cd73a6c-cbb7-4aff-93fe-c96fe9011547" />
+<img width="1536" height="1024" alt="Rejection Analysis" src="https://github.com/user-attachments/assets/da2a8cca-d90b-4694-837d-4bd3d2bdf741" />
 
 
 
