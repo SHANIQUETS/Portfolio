@@ -148,10 +148,6 @@ This dashboard enables stakeholders to:
 
 <img width="1536" height="1024" alt="ChatGPT Image Apr 6, 2026 at 11_00_58 AM" src="https://github.com/user-attachments/assets/ef7e8aef-2b82-4f22-b9ce-b0a894d008da" />
 
-
-
-<img width="1138" height="755" alt="Cash By Paypoint MTD" src="https://github.com/user-attachments/assets/a36adfb1-cd12-461a-94a3-b0888ab21dc1" />
-
 ---
 
 
