@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <title>Vitalyst - Healthcare Management System</title>
+    <style>
+      #loading-indicator {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #f9fafb;
+        z-index: 9999;
+        transition: opacity 0.3s ease-out;
+      }
+      #loading-indicator.hidden {
+        opacity: 0;
+        pointer-events: none;
+      }
+      .spinner {
+        width: 40px;
+        height: 40px;
+        border: 4px solid rgba(0, 0, 0, 0.1);
+        border-radius: 50%;
+        border-top-color: #0f172a;
+        animation: spin 1s ease-in-out infinite;
+      }
+      @keyframes spin {
+        to {
+          transform: rotate(360deg);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="loading-indicator">
+      <div class="spinner"></div>
+    </div>
+    <div id="root"></div>
+    <script>
+      // Simple error handler
+      window.addEventListener('error', function(e) {
+        console.error('Global error caught:', e.error || e.message);
+        document.body.innerHTML += '<div style="color:red;background:#ffeeee;padding:20px;margin:20px;border-radius:5px;font-family:sans-serif"><strong>Error:</strong> ' + (e.error?.message || e.message) + '</div>';
+      });
+      
+      // Hide loading indicator once app is loaded
+      window.addEventListener('load', function() {
+        setTimeout(function() {
+          const loader = document.getElementById('loading-indicator');
+          if (loader) loader.classList.add('hidden');
+        }, 500);
+      });
+    </script>
+    <script type="module" src="/src/main.tsx"></script>
+    <!-- This is a replit script which adds a banner on the top of the page when opened in development mode outside the replit environment -->
+    <script type="text/javascript" src="https://replit.com/public/js/replit-dev-banner.js"></script>
+  </body>
+</html>

@@ -1,155 +1,76 @@
-# 📊 Referral & Hire Performance Dashboard (Power BI)
+# Vitalyst Healthcare Portal
 
-## Overview
+An early multi-clinic electronic health record (EHR) prototype designed for the Jamaican healthcare context. This repository documents the product and technical foundation that preceded **CariCare**, a patient-controlled, agentic health-record platform for the Caribbean.
 
-I built this dashboard to analyse referral data and understand how cases move from referral through to hire completion.
+> **Prototype status:** This is an archived proof of concept reconstructed from the original 2025 Replit project. It is not a certified medical device, is not production-ready, and must not be used with real patient data.
 
-The goal was to make it easy to see:
+## What the prototype explored
 
-* how many referrals are coming in
-* how many are accepted or rejected
-* how many actually convert into hires
-* where things might be breaking down
+- Multi-clinic patient and staff management
+- Role-based access for clerks, nurses, doctors, clinic administrators and platform administrators
+- Patient registration, search and duplicate-record detection
+- Longitudinal medical records and medical-history capture
+- Appointment scheduling
+- Patient test-result and document workflows
+- Audit logging and clinic-scoped access
+- Clinic subscription tiers and billing experiments
+- Jamaican parish and address context
 
----
+## Technology
 
-## What the dashboard shows
+- React, TypeScript, Vite and Wouter
+- Express and Node.js
+- PostgreSQL/Neon and Drizzle ORM
+- Passport session authentication, with experimental Clerk integration
+- TanStack Query, React Hook Form and Zod
+- Tailwind CSS, Radix UI and shadcn-style components
+- Experimental Stripe billing integration
 
-* Total referrals, accepted and rejected
-* Conversion into hire (based on On Hire Date)
-* Completed hires (based on Off Hire Date, not referral date)
-* Trends over time
-* Breakdown by referrer
-* Rejection reasons
+## Repository structure
 
----
+```text
+client/       React frontend
+server/       Express API, authentication, permissions and integrations
+shared/       Shared Drizzle schema and TypeScript types
+migrations/   Prototype database migrations
+scripts/      Development and synthetic-data utilities
+docs/         Product history and security notes
+```
 
-## Key things I focused on
+The generic files under `client/src/components/ui/` are retained because the application imports them directly. They are supporting UI components rather than Vitalyst business logic.
 
-One important part of this build was making sure the numbers reflect real operations.
+## Local setup
 
-For example, completed hires are calculated using the **Off Hire Date**, rather than the referral date. This avoids misleading trends and gives a more accurate view of performance over time.
+1. Install Node.js 20 or newer.
+2. Copy `.env.example` to `.env` and provide a PostgreSQL `DATABASE_URL` and strong `SESSION_SECRET`.
+3. Install dependencies:
 
----
+   ```bash
+   npm ci
+   ```
 
-## Data issues I found
+4. Push the Drizzle schema to a disposable development database:
 
-While working with the data, I noticed a few problems:
+   ```bash
+   npm run db:push
+   ```
 
-* Status values were inconsistent (e.g. different casing)
-* Some date fields were missing or incomplete
-* There were cases where the data didn’t fully reflect the referral → hire process
+5. Start development mode:
 
-I cleaned and handled these within Power BI to make the reporting more reliable.
+   ```bash
+   npm run dev
+   ```
 
----
+Do not use a production database or real medical records.
 
-## What I learned from the data
+## Security and privacy
 
-A noticeable number of referrals don’t convert into hires, and a large share of rejections are due to incomplete information.
+The public reconstruction excludes the original upload directory, temporary files, Replit metadata, cookie files, password-setup utilities and development authentication bypasses. See [SECURITY.md](SECURITY.md).
 
-This suggests there’s an opportunity to improve the quality of referrals at the source, which could increase conversion rates and reduce wasted effort.
+## Evolution into CariCare
 
----
+Vitalyst started as a clinic-centred EHR. The later CariCare concept expands the problem from managing records inside one system to making fragmented health information portable, patient-controlled and intelligently processed across providers. See [docs/evolution-to-caricare.md](docs/evolution-to-caricare.md).
 
-## Tools used
+## Licence
 
-* Power BI
-* Power Query
-* DAX
-
----
-
-## Why this matters
-
-This kind of dashboard helps teams quickly see where performance is dropping off and where improvements can be made — whether that’s better referral quality, faster processing, or improved tracking.
-
----
-
-## Dashboard preview
-
-<img width="1536" height="1024" alt="Referral    Hire Performance Dashboard" src="https://github.com/user-attachments/assets/a43bab76-09f4-4d5d-9763-b4293f4ca6fb" />
-
-
-<img width="1536" height="1024" alt="Rejection Analysis" src="https://github.com/user-attachments/assets/da2a8cca-d90b-4694-837d-4bd3d2bdf741" />
-
-
-
-# 📊 Cash Flow & Payment Performance Dashboard
-
-## Overview
-
-This project analyses weekly cash collection and payment performance across multiple channels, with a focus on understanding trends, channel contribution, and variance against previous periods.
-
-The dashboard was designed to provide both a high-level executive view and a detailed operational breakdown.
-
----
-
-## Objectives
-
-* Track total cash collection and payment volumes
-* Analyse contribution by payment channel
-* Compare performance against previous year
-* Identify key drivers of positive and negative variance
-
----
-
-## Dashboard Structure
-
-### Executive Overview
-
-Provides a high-level summary of performance:
-
-* Total weekly and month-to-date cash
-* Payment volumes
-* Variance vs previous year
-* Trends over time
-* Channel contribution
-
-### Detailed Breakdown
-
-Provides a granular view by payment channel, including:
-
-* Weekly amounts
-* Percentage contribution
-* MTD performance
-* Variance vs previous year
-
----
-
-## Key Insights
-
-* Direct Debit (DD) accounts for the majority of cash collection (~72%), making it a critical driver of overall performance.
-* Negative variance vs previous year is largely driven by declines in key payment channels.
-* Some smaller channels show positive growth, indicating potential areas for expansion.
-
----
-
-## Tools Used
-
-* Power BI (or equivalent reporting tool)
-* Data modelling and aggregation
-* Business performance analysis
-
----
-
-## Business Value
-
-This dashboard enables stakeholders to:
-
-* Monitor cash performance in real time
-* Identify underperforming channels
-* Make informed decisions on payment strategy
-* Improve forecasting and operational planning
-
----
-
-## Dashboard Preview
-
-<img width="1536" height="1024" alt="ChatGPT Image Apr 6, 2026 at 11_00_58 AM" src="https://github.com/user-attachments/assets/ef7e8aef-2b82-4f22-b9ce-b0a894d008da" />
-
----
-
-
-
-
+The recovered project declared the MIT licence in its package metadata. Third-party packages remain subject to their own licences.
