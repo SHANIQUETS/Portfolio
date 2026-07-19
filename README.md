@@ -1,4 +1,4 @@
-# Vitalyst Healthcare Portal
+# Vitalyst Healthcare Portal — Full-stack EHR prototype and predecessor to CariCare
 
 An early multi-clinic electronic health record (EHR) prototype designed for the Jamaican healthcare context. This repository documents the product and technical foundation that preceded **CariCare**, a patient-controlled, agentic health-record platform for the Caribbean.
 
